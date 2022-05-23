@@ -1,0 +1,150 @@
+{
+  "uuid": "bb64a6c1a6828de61da82bb2ff2d051e",
+  "path": "Offline/my_first_pcb",
+  "name": "my_first_pcb",
+  "content": "",
+  "created_at": "2022-04-11 06:54:58",
+  "updated_at": "2022-04-14 20:53:45",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "748f330fd71d4553fe8196bd2bc24027",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "94c3da00346747e68ae07f7814de2eff": 1,
+        "c7fcbcf0a6fa4c8e96ee69af8871b437": 1,
+        "5082ebaf8b5642068b5ee48150e7f649": 1,
+        "86c713e7bff54ad288eeb9e67371b045": 1,
+        "05770d1552ec4d94a1ea96d9bda9ba9b": 1,
+        "daa3cf3493c84fa3b0b6a6d427d23f0b": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "DC005-2.0MM",
+          1,
+          "DC-IN-TH_DC005-T20",
+          "DC1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "SOFNG",
+            "BOM_Manufacturer Part": "DC005-2.0MM",
+            "BOM_Supplier Part": "C111567",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "63578324d39c402ba15339bb872baddb",
+            "uuid": "daa3cf3493c84fa3b0b6a6d427d23f0b"
+          }
+        ],
+        [
+          "HEADER-1X8",
+          1,
+          "DIP-1X8P-2.54MM",
+          "J1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "18334e9e99db42b681855f373c6bd404",
+            "uuid": "05770d1552ec4d94a1ea96d9bda9ba9b"
+          }
+        ],
+        [
+          "JUMPER-4-PINS",
+          1,
+          "CONNECTOR-4-MALE-FEMALE",
+          "JP1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3cda084a2d4143d7a9c8da1d33119927",
+            "uuid": "5082ebaf8b5642068b5ee48150e7f649"
+          }
+        ],
+        [
+          "JUMPER-3-PINS",
+          1,
+          "CONNECTOR-3-MALE-FEMALE",
+          "JP2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "d235c37e17384c88baeec08402accf3a",
+            "uuid": "86c713e7bff54ad288eeb9e67371b045"
+          }
+        ],
+        [
+          "Header Female 2.54mm 1x3",
+          1,
+          "HEADER FEMALE 2.54MM 3X1",
+          "P1",
+          {
+            "BOM_Supplier Part": "C146243",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "Boom Precision Elec",
+            "BOM_Manufacturer Part": "Header-Female-2.54_1x3",
+            "puuid": "da5bd7ca43b3405887deac2f4fa5fd25",
+            "uuid": "c7fcbcf0a6fa4c8e96ee69af8871b437"
+          }
+        ],
+        [
+          "HEADER FEMALE OR MALE PINS 20X2",
+          1,
+          "HEADER FEMALE OR MALE PINS 20X2",
+          "U1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "bb9171cb9c9c45c496266e5b088127d7",
+            "uuid": "94c3da00346747e68ae07f7814de2eff"
+          }
+        ]
+      ],
+      "updateTime": 1649947656,
+      "createTime": 1649640298,
+      "histories": [],
+      "created_at": "2022-04-11 06:54:58",
+      "updated_at": "2022-04-14 20:17:36"
+    },
+    {
+      "uuid": "6137508b1e5f4a4b83ba9bba6e73c981",
+      "puuid": "bb64a6c1a6828de61da82bb2ff2d051e",
+      "title": "PCB_my_first_pcb",
+      "filename": "PCB_my_first_pcb.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "63578324d39c402ba15339bb872baddb": 1,
+        "18334e9e99db42b681855f373c6bd404": 1,
+        "3cda084a2d4143d7a9c8da1d33119927": 1,
+        "d235c37e17384c88baeec08402accf3a": 1,
+        "da5bd7ca43b3405887deac2f4fa5fd25": 1,
+        "bb9171cb9c9c45c496266e5b088127d7": 1
+      },
+      "BOM": [],
+      "updateTime": 1649949825,
+      "createTime": 1649949565,
+      "histories": [],
+      "created_at": "2022-04-14 20:49:25",
+      "updated_at": "2022-04-14 20:53:45"
+    }
+  ],
+  "sort": [],
+  "title": "my_first_pcb",
+  "foldername": "my_first_pcb",
+  "schfilename": "my_first_pcb.json",
+  "schfilemtime": 1649947656128
+}
